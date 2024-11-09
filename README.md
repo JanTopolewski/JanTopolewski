@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning AI and Python
 - 💬 Ask me about AI, Python and MySQL
 
-!Top lANGS
+!Top Langs
