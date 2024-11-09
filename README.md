@@ -6,4 +6,5 @@
 - 🌱 I’m currently learning AI and Python
 - 💬 Ask me about AI, Python and MySQL
 
+## Languages
 !Top Langs
