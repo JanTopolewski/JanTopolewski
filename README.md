@@ -8,7 +8,7 @@
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanTopolewski&layout=compact&theme=github_dark" alt="languages used stats"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=JanTopolewski&show_icons=true&theme=github_dark&locale=en" alt="Jan Topolewski stats"/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanTopolewski&theme=github_dark)
 
@@ -16,4 +16,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JanTopolewski&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanTopolewski&theme=github_dark)
-<img src="https://github-readme-stats.vercel.app/api?username=JanTopolewski&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="Jan Topolewski stats"/>
